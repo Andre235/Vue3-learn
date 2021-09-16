@@ -1,0 +1,7 @@
+{
+    "un.enable": true,
+    "files.associations": {
+        "*.html": "html",
+        "*.vue": "vue"
+    }
+}
